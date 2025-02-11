@@ -21,11 +21,11 @@ Este repositório contém a documentação oficial do painel da Allcance SMS. O 
 ## Como Rodar Localmente
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/allcance-sms-docs.git
+   git clone https://github.com/allcance/doc.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd allcance-sms-docs
+   cd doc
    ```
 3. Instale as dependências:
    ```sh
@@ -35,7 +35,7 @@ Este repositório contém a documentação oficial do painel da Allcance SMS. O 
    ```sh
    npm run docs:dev
    ```
-5. Acesse `http://localhost:5173` no navegador.
+5. Acesse `http://localhost:5173` (porta 5173 é a padrão, se ela estiver o projeto ficará disponível em outra) no navegador.
 
 ## Como Contribuir
 1. Faça um fork do repositório.
