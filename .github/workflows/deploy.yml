@@ -6,7 +6,7 @@ on:
   # Executa em pushes direcionados à branch `main`.
   # Altere para `master` se estiver usando a branch `master` como padrão.
   push:
-    branches: [master]
+    branches: [main]
 
   # Permite executar manualmente este fluxo de trabalho na guia Actions
   workflow_dispatch:
