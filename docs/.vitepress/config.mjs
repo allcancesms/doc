@@ -83,7 +83,7 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/XXXX/XXXX/edit/master/docs/:path'
+      pattern: 'https://github.com/allcancesms/doc/edit/main/docs/:path'
     },
 
     lastUpdated: {
@@ -93,5 +93,9 @@ export default defineConfig({
         timeStyle: 'short'
       }
     },
+
+    search: {
+      provider: 'local'
+    }
   }
 })
