@@ -1,12 +1,12 @@
 # Exemplo de fluxo de trabalho para compilar e implantar um site VitePress no GitHub Pages
 #
-name: Implante o site VitePress no Pages
+name: Documentacao Allcance no GitHub
 
 on:
   # Executa em pushes direcionados à branch `main`.
   # Altere para `master` se estiver usando a branch `master` como padrão.
   push:
-    branches: [master]
+    branches: [main]
 
   # Permite executar manualmente este fluxo de trabalho na guia Actions
   workflow_dispatch:
