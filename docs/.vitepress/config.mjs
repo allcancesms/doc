@@ -34,7 +34,7 @@ export default defineConfig({
         text: 'Campanhas',
         items: [
           {text: 'Campanhas SMS', link: '#'},
-          {text: 'Whatshapp', link: '#'},
+          {text: 'Whatsapp', link: '#'},
           {text: 'Torpedo Interativo', link: '#'},
         ]
       },
