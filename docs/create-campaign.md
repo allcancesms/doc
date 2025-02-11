@@ -54,7 +54,7 @@ Vamos criar uma campanha? Siga o passo a passo!
 
 - **Definindo o serviço e nomeando a campanha**
 
-  Primeiro, dê um nome para a campanha que você está criando. Esse nome será usado para identificá-la posteriormente no
+  Primeiro, dê um nome para a campanha que você está a criar. Esse nome será usado para identificá-la posteriormente no
   painel e pode ter até 40 caracteres.
 
 Com a campanha nomeada, é hora de escolher o tipo de serviço para o disparo das mensagens. Atualmente, temos oito
@@ -116,6 +116,5 @@ disparo estão corretos antes de confirmar.
 
 ![Captura de tela da etapa de "Confirmação" da funcionalidade criação de campanha do Painel.](/img/tutorial/confirm-campaign.png)
 
-Se tudo estiver correto, clique em "Enviar campanha", leia o aviso sobre a cobrança de créditos e clique em "Aceito". *
-*Pronto! A campanha está criada e a mensagem será enviada aos destinatários!**
+Se tudo estiver correto, clique em "Enviar campanha", leia o aviso sobre a cobrança de créditos e clique em "Aceito". **Pronto! A campanha está criada e a mensagem será enviada aos destinatários!**
 
