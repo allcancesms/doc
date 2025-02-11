@@ -1,78 +1,61 @@
+# Allcance SMS - Documentação do Painel
 
-# Projeto de Avaliação de Cinemas de Belo Horizonte
-
-Este projeto tem como objetivo avaliar a qualidade dos cinemas de Belo Horizonte, fornecendo informações e comparativos para os consumidores, ajudando-os a escolherem a melhor experiência cinematográfica e incentivando os cinemas a melhorarem seus serviços.
-
-![Captura de tela do projeto](./screen-1.png)
-
-## Índice
-
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Funcionalidades](#funcionalidades)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Instalação](#instalação)
-- [Como Usar](#como-usar)
-- [Contribuição](#contribuição)
-
-## Sobre o Projeto
-
-O projeto visa fornecer uma avaliação simples dos cinemas de Belo Horizonte com base em critérios como conforto, qualidade de som e imagem, atendimento, infraestrutura, preço e localização. As avaliações são realizadas através de visitas aos cinemas.
-
-## Funcionalidades
-
-- Listagem dos cinemas de Belo Horizonte destinados à visita.
-- Ranking baseados em critérios pessoais.
-- Comparação entre diferentes cinemas.
+## Visão Geral
+Este repositório contém a documentação oficial do painel da Allcance SMS. O objetivo é fornecer informações detalhadas sobre funcionalidades, configuração e uso da plataforma. [A documentação está disponível clicando aqui](https://allcancesms.github.io/doc/)
 
 ## Tecnologias Utilizadas
+- **VitePress**: Gerador de sites estáticos otimizado para documentação.
+- **Markdown**: Formato de escrita para documentação estruturada.
+- **GitHub Pages**: Hospedagem para a documentação online.
 
-- [VitePress](https://vitepress.vuejs.org/): Framework de documentação estática.
-- [Vue.js](https://vuejs.org/): Framework JavaScript para construção de interfaces de usuário.
-- [Node.js](https://nodejs.org/): Ambiente de execução JavaScript.
-- [Markdown](https://daringfireball.net/projects/markdown/): Linguagem de marcação para formatação de texto.
+## Estrutura do Repositório
+```
+/docs
+  |-- .vitepress/        # Configurações do VitePress
+  |-- public/            # Arquivos estáticos (imagens, ícones, etc.)
+  |-- guide/             # Documentação principal
+  |-- index.md           # Página inicial
+  |-- README.md          # Este arquivo
+```
 
-## Instalação
-
-Siga as etapas abaixo para configurar o ambiente de desenvolvimento do projeto:
-
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/gabriersdev/movie-theaters-reviews.git
+## Como Rodar Localmente
+1. Clone este repositório:
+   ```sh
+   git clone https://github.com/seu-usuario/allcance-sms-docs.git
    ```
-
-2. Navegue até o diretório do projeto:
-
-   ```bash
-   cd movie-theaters-reviews
+2. Acesse a pasta do projeto:
+   ```sh
+   cd allcance-sms-docs
    ```
-
 3. Instale as dependências:
-
-   ```bash
+   ```sh
    npm install
    ```
-
-## Como Usar
-
-1. Inicie o servidor de desenvolvimento:
-
-   ```bash
+4. Inicie o servidor de desenvolvimento:
+   ```sh
    npm run docs:dev
    ```
+5. Acesse `http://localhost:5173` no navegador.
 
-2. Abra o navegador e acesse a url gerada para visualizar o projeto.
-
-## Contribuição
-
-Contribuições são bem-vindas! Siga os passos abaixo para contribuir com o projeto:
-
+## Como Contribuir
 1. Faça um fork do repositório.
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`).
-3. Faça commit das suas alterações (`git commit -m 'Adiciona nova feature'`).
-4. Faça push para a branch (`git push origin feature/nova-feature`).
-5. Abra um Pull Request.
+2. Crie uma branch para sua contribuição:
+   ```sh
+   git checkout -b minha-contribuicao
+   ```
+3. Faça as alterações e envie um commit:
+   ```sh
+   git commit -m "Melhoria na documentação"
+   ```
+4. Envie um pull request para análise.
+
+## Deploy no GitHub Pages
+Para publicar a documentação:
+```sh
+npm run docs:build
+```
+Configure o workflow para deploy no GitHub Pages
 
 ---
+© 2025 Allcance SMS. Todos os direitos reservados.
 
-Projeto desenvolvido [por mim](https://github.com/gabriersdev).
