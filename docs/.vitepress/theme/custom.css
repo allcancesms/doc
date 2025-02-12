@@ -37,8 +37,11 @@ html {
   --vp-c-danger-soft: var(--vp-c-red-soft);
 }
 
-body {
+* {
   font-family: 'Poppins', 'Inter', 'Arial', sans-serif;
+}
+
+body {
   min-height: 100vh;
 }
 
