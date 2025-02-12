@@ -117,4 +117,3 @@ disparo estão corretos antes de confirmar.
 ![Captura de tela da etapa de "Confirmação" da funcionalidade criação de campanha do Painel.](/img/tutorial/confirm-campaign.png)
 
 Se tudo estiver correto, clique em "Enviar campanha", leia o aviso sobre a cobrança de créditos e clique em "Aceito". **Pronto! A campanha está criada e a mensagem será enviada aos destinatários!**
-

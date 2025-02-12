@@ -1,4 +1,4 @@
-import {defineConfig} from 'vitepress'
+import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -7,7 +7,7 @@ export default defineConfig({
   base: "/doc",
   title: "Allcance SMS - Documentação do Painel",
   description: "Documentação oficial do painel da AllcanceSMS. Encontre guias detalhados, instruções de realização de tarefas e melhores práticas para utilizar nossos serviços de envio de SMS de forma eficiente e segura.",
-  head: [['link', {rel: 'icon', href: 'favicon.ico'}]],
+  head: [['link', { rel: 'icon', href: 'favicon.ico' }]],
   themeConfig: {
     siteTitle: "<img src=\"./allcance-logo-black.png\" width=\"200\" alt=\"Logo da Allcance\"/>",
     titleTemplate: ":title - Documentação",
@@ -16,56 +16,56 @@ export default defineConfig({
     outlineTitle: 'Nesta página',
 
     nav: [
-      {text: 'Suporte', link: 'https://wa.me/553132311301'},
-      {text: 'Começar', link: '/get-started'},
-      {text: 'Campanhas', link: '/create-campaign'},
+      { text: 'Suporte', link: 'https://wa.me/553132311301' },
+      { text: 'Começar', link: '/get-started' },
+      { text: 'Campanhas', link: '/create-campaign' },
     ],
 
     sidebar: [
       {
         text: 'Comece por aqui',
         items: [
-          {text: 'Criando uma conta gratuita', link: '/get-started'},
-          {text: 'Completando o cadastro', link: '/complete-register'},
-          {text: 'Criando a primeira campanha', link: '/create-campaign'},
+          { text: 'Criando uma conta gratuita', link: '/get-started' },
+          { text: 'Completando o cadastro', link: '/complete-register' },
+          { text: 'Criando a primeira campanha', link: '/create-campaign' },
         ]
       },
       {
         text: 'Campanhas', link: '/create-campaign',
         items: [
-          {text: 'Campanhas SMS', link: '/sms-campaigns'},
-          {text: 'Whatsapp', link: '/whatsapp-campaigns'},
-          {text: 'Torpedo Interativo', link: 'torpedo-campaings'},
+          { text: 'Campanhas SMS', link: '/sms-campaigns' },
+          { text: 'WhatsApp', link: '/WhatsApp-campaigns' },
+          { text: 'Torpedo Interativo', link: 'torpedo-campaings' },
         ]
       },
       {
         text: 'Créditos',
         items: [
-          {text: 'Como comprar créditos', link: '/buy-credits#1'},
-          {text: 'Onde vejo as minhas compras', link: '/buy-credits#2'},
+          { text: 'Como comprar créditos', link: '/buy-credits#1' },
+          { text: 'Onde vejo as minhas compras', link: '/buy-credits#2' },
         ]
       },
       {
         text: 'Ferramentas',
         items: [
-          {text: 'Rastreadores', link: '/trackers'},
-          {text: 'Resposta automática', link: '/auto-responses'},
-          {text: 'Contatos', link: '/contacts'},
-          {text: 'Lista Negra', link: '/black-list'},
+          { text: 'Rastreadores', link: '/trackers' },
+          { text: 'Resposta automática', link: '/auto-responses' },
+          { text: 'Contatos', link: '/contacts' },
+          { text: 'Lista Negra', link: '/black-list' },
         ]
       },
       {
         text: 'Controle e administração',
         items: [
-          {text: 'Entendendo o dashboard', link: '/dashboard'},
-          {text: 'Financeiro', link: '/finance'},
+          { text: 'Entendendo o dashboard', link: '/dashboard' },
+          { text: 'Financeiro', link: '/finance' },
         ]
       },
       {
         text: 'Relatórios', link: '#',
         items: [
-          {text: 'Descomplicando o relatório analítico', link: '/reports/#'},
-          {text: 'Gerando um relatório por período', link: '/reports/#'},
+          { text: 'Descomplicando o relatório analítico', link: '/reports/#' },
+          { text: 'Gerando um relatório por período', link: '/reports/#' },
         ]
       }
     ],
@@ -100,6 +100,8 @@ export default defineConfig({
         timeStyle: 'short'
       }
     },
+
+    returnToTopLabel: 'Retornar ao topo',
 
     search: {
       provider: 'local'

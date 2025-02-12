@@ -6,4 +6,4 @@
   <NoteComponent/>
 </div>
 
-# Campanhas Whatsapp
+# Campanhas WhatsApp
