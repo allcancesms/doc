@@ -89,6 +89,7 @@ export default defineConfig({
     },
 
     editLink: {
+      text: 'Editar esta página',
       pattern: 'https://github.com/allcancesms/doc/edit/main/docs/:path'
     },
 
