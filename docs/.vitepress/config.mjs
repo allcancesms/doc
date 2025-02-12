@@ -9,7 +9,7 @@ export default defineConfig({
   description: "Documentação oficial do painel da AllcanceSMS. Encontre guias detalhados, instruções de realização de tarefas e melhores práticas para utilizar nossos serviços de envio de SMS de forma eficiente e segura.",
   head: [['link', {rel: 'icon', href: 'favicon.ico'}]],
   themeConfig: {
-    siteTitle: "Allcance SMS",
+    siteTitle: "<img src=\"./allcance-logo-black.png\" width=\"200\" alt=\"Logo da Allcance\"/>",
     titleTemplate: ":title - Documentação",
 
     logo: "favicon.ico",
@@ -18,48 +18,54 @@ export default defineConfig({
     nav: [
       {text: 'Suporte', link: 'https://wa.me/553132311301'},
       {text: 'Começar', link: '/get-started'},
-      {text: 'Campanha', link: '/create-campaign'},
+      {text: 'Campanhas', link: '/create-campaign'},
     ],
 
     sidebar: [
       {
         text: 'Comece por aqui',
         items: [
-          {text: 'Criando uma conta gratuita', link: '#'},
-          {text: 'Completando o cadastro', link: '#'},
-          {text: 'Criando a primeira campanha', link: '#'},
+          {text: 'Criando uma conta gratuita', link: '/get-started'},
+          {text: 'Completando o cadastro', link: '/complete-register'},
+          {text: 'Criando a primeira campanha', link: '/create-campaign'},
         ]
       },
       {
-        text: 'Campanhas',
+        text: 'Campanhas', link: '/create-campaign',
         items: [
-          {text: 'Campanhas SMS', link: '#'},
-          {text: 'Whatsapp', link: '#'},
-          {text: 'Torpedo Interativo', link: '#'},
+          {text: 'Campanhas SMS', link: '/sms-campaigns'},
+          {text: 'Whatsapp', link: '/whatsapp-campaigns'},
+          {text: 'Torpedo Interativo', link: 'torpedo-campaings'},
+        ]
+      },
+      {
+        text: 'Créditos',
+        items: [
+          {text: 'Como comprar créditos', link: '/buy-credits#1'},
+          {text: 'Onde vejo as minhas compras', link: '/buy-credits#2'},
         ]
       },
       {
         text: 'Ferramentas',
         items: [
-          {text: 'Rastreadores', link: '#'},
-          {text: 'Resposta automática', link: '#'},
-          {text: 'Contatos', link: '#'},
-          {text: 'Lista Negra', link: '#'},
-          {text: 'Créditos', link: '#'},
+          {text: 'Rastreadores', link: '/trackers'},
+          {text: 'Resposta automática', link: '/auto-responses'},
+          {text: 'Contatos', link: '/contacts'},
+          {text: 'Lista Negra', link: '/black-list'},
         ]
       },
       {
         text: 'Controle e administração',
         items: [
-          {text: 'Entendendo o dashboard', link: '#'},
-          {text: 'Financeiro', link: '#'},
+          {text: 'Entendendo o dashboard', link: '/dashboard'},
+          {text: 'Financeiro', link: '/finance'},
         ]
       },
       {
-        text: 'Relatórios',
+        text: 'Relatórios', link: '#',
         items: [
-          {text: 'Descomplicando o relátorio analítico', link: '#'},
-          {text: 'Gerando um relatório por período', link: '#'},
+          {text: 'Descomplicando o relatório analítico', link: '/reports/#'},
+          {text: 'Gerando um relatório por período', link: '/reports/#'},
         ]
       }
     ],

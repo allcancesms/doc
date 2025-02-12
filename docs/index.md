@@ -10,13 +10,13 @@ hero:
   #   alt: ...
   actions:
     - theme: brand
-      text: Criar campanha
+      text: Criando uma campanha
       link: /create-campaign
     - theme: alt
-      text: Como funciona?
+      text: Como funciona
       link: https://allcancesms.com.br/#whats-unitario
     - theme: alt
-      text: Quero comprar créditos
+      text: Como comprar créditos
       link: /buy-credits
 
 features:

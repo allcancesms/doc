@@ -6,6 +6,4 @@
   <NoteComponent/>
 </div>
 
-# Como comprar créditos?
-
-...
+# Campanhas Whatsapp
