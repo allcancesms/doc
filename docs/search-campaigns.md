@@ -51,4 +51,5 @@ Por fim, o último campo é o de período. De todos este é o mais importante, p
 
 ## Próximos passos
 
-[Veja o desempenho, respostas e o rastreio de links de uma campanha](/advanced-filters-campaings)
+[Veja o desempenho, respostas e o rastreio de links de uma campanha](/advanced-filters-campaings)  
+[Tirando um relatório de campanhas antigas](/search-campaigns)
