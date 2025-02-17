@@ -31,7 +31,7 @@ Para o destinatário a mensagem aparece assim:
 
 ![Captura de tela de mensagem SMS](/img/tutorial/message-link.png)
 
-## Onde eu vejo o desempenho e a taxa de clicks do link rastreado?
+## Onde eu vejo o desempenho e os clicks no link rastreado?
 
 Você pode ver quais dos seus destinatários clicaram no link rastreado através do relatório da campanha. Para chegar até
 lá é através do menu Campanha:
