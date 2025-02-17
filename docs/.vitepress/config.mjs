@@ -35,7 +35,7 @@ export default defineConfig({
         items: [
           {text: 'Campanhas SMS', link: '/sms-campaigns'},
           {text: 'Rastreador de links', link: '/trackers-links'},
-          {text: 'WhatsApp', link: '/whatsApp-campaigns'},
+          {text: 'WhatsApp', link: '/whatsapp-campaigns'},
           {text: 'Torpedo Interativo', link: 'torpedo-campaings'},
           {text: 'Localizando uma campanha', link: '/search-campaigns'},
           {text: 'Desempenho, respostas e rastreio', link: '/advanced-filters-campaings'},
