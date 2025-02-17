@@ -43,3 +43,9 @@ serviço, como usá-los e a aplicação ideal de cada um.
 ## SMS Bet Compartilhada
 
 ...
+
+## Tarifação
+
+Atualmente, tarifamos 1 SMS a até 160 caracteres, a partir de então tarifamos a cada 145 caracteres. Isso significa que, se você criar duas campanhas, uma em que a mensagem tenha 100 caracteres e outra em que a mensagem tenha 450 caracteres, a primeira será tarifada em 1 SMS e a segunda em 3 SMS (1 SMS até 160 caracteres e 2 dos 290 caracteres restantes). 
+
+Antes da criação de uma campanha, você é informado sobre a tarifação. 

@@ -72,6 +72,9 @@ Os serviços disponíveis são:
 - [WhatsApp](/whatsapp-campaigns)
 - [Torpedo Interativo](/torpedo-campaings)
 
+> [!TIP]
+> Conheça a <a href="./trackers-links.html" target="_blank" style="color: var(--vp-custom-block-tip-text)">função de <b>rastreio de links</b></a> e acompanhe a taxa de cliques e comportamento dos seus destinatários, otimizando o seu négocio.
+
 Cada serviço possui particularidades e aplicações específicas. Leia a descrição e verifique qual é o melhor para a sua
 necessidade. Clicando sobre um dos serviços acima você pode ver um exemplo deles. Após selecionar um serviço, clique em "Próximo".
 
@@ -98,9 +101,13 @@ Após informar os números, clique em "Próximo".
 ## Passo 3: Escrever a mensagem
 
 Nesta etapa, você escreve o texto que será enviado aos destinatários. A mensagem pode ter até 2000 caracteres (o limite
-varia conforme o serviço escolhido). [Consulte a tarifção clicando aqui](#).
+varia conforme o serviço escolhido). [Consulte a tarifação clicando aqui](/sms-campaigns#tarifacao).
 
 Conforme você digita, no lado direito do formulário, uma pré-visualização da mensagem será exibida.
+
+
+> [!TIP]
+> Conheça a <a href="./trackers-links.html" target="_blank" style="color: var(--vp-custom-block-tip-text)">função de <b>rastreio de links</b></a> e acompanhe a taxa de cliques e comportamento dos seus destinatários, otimizando o seu négocio.
 
 Você pode optar por enviar a mensagem imediatamente ou programá-la para um horário específico. Caso escolha "Agendar",
 defina a data e o horário.
