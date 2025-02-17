@@ -1,11 +1,13 @@
 import DefaultTheme from 'vitepress/theme'
 import {onMounted, watch} from "vue";
+import {useRouter} from "vitepress";
 import './custom.css'
 
 export default {
   ...DefaultTheme,
   setup() {
     const defaultSetup = DefaultTheme.setup ? DefaultTheme.setup() : undefined;
+    const router = useRouter();
 
     const setImg = (button, img) => {
       if (!button.getAttribute('title').includes('dark')) img.setAttribute('src', 'allcance-logo-white.png');
@@ -46,6 +48,10 @@ export default {
 
       updateTexts();
     });
+
+    router.onAfterRouteChanged = (() => {
+      updateTexts();
+    })
 
     watch(() => {updateTexts()});
 
