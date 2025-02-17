@@ -31,8 +31,9 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Campanhas', link: '/create-campaign',
+        text: 'Campanhas',
         items: [
+          {text: 'Criando uma campanha', link: '/create-campaign'},
           {text: 'Campanhas SMS', link: '/sms-campaigns'},
           {text: 'WhatsApp', link: '/whatsapp-campaigns'},
           {text: 'Torpedo Interativo', link: 'torpedo-campaings'},

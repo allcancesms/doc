@@ -1,5 +1,5 @@
 import DefaultTheme from 'vitepress/theme'
-import {onMounted} from "vue";
+import {onMounted, watch} from "vue";
 import './custom.css'
 
 export default {
@@ -10,6 +10,23 @@ export default {
     const setImg = (button, img) => {
       if (!button.getAttribute('title').includes('dark')) img.setAttribute('src', 'allcance-logo-white.png');
       else img.setAttribute('src', 'allcance-logo-black.png');
+    }
+
+    const updateTexts = () => {
+      // Traduz textos
+      Array.from(document.querySelectorAll("body *")).filter(el => ["note", "important", "tip"].includes(el.textContent.toLowerCase())).forEach(el => {
+        switch (el.textContent.toLowerCase()) {
+          case 'note':
+            el.textContent = 'NOTA';
+            break;
+          case 'important':
+            el.textContent = 'IMPORTANTE';
+            break;
+          case 'tip':
+            el.textContent = 'SABIA MAIS';
+            break;
+        }
+      })
     }
 
     onMounted(() => {
@@ -27,21 +44,10 @@ export default {
         }
       });
 
-      // Traduz textos
-      Array.from(document.querySelectorAll("body *")).filter(el => ["note", "important", "tip"].includes(el.textContent.toLowerCase())).forEach(el => {
-        switch (el.textContent.toLowerCase()) {
-          case 'note':
-            el.textContent = 'NOTA';
-            break;
-          case 'important':
-            el.textContent = 'IMPORTANTE';
-            break;
-          case 'tip':
-            el.textContent = 'SABIA MAIS';
-            break;
-        }
-      })
+      updateTexts();
     });
+
+    watch(() => {updateTexts()});
 
     return defaultSetup;
   },
