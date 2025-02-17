@@ -13,9 +13,8 @@ Este repositório contém a documentação oficial do painel da Allcance SMS. O 
 /docs
   |-- .vitepress/        # Configurações do VitePress
   |-- public/            # Arquivos estáticos (imagens, ícones, etc.)
-  |-- guide/             # Documentação principal
   |-- index.md           # Página inicial
-  |-- README.md          # Este arquivo
+  |-- XXXX.md            # Demais arquivos
 ```
 
 ## Como Rodar Localmente
