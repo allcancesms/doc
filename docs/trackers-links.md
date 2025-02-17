@@ -43,7 +43,7 @@ lá é através do menu Campanha:
 - E depois, clique na aba **Trackers**
 - E você verá uma lista com os destinatários de clicaram no link.
 
-![Captura de tela do modal de relatório de campanha](/img/tutorial/tracker-link.png)
+![Captura de tela do modal de relatório de campanha](/img/tutorial/relatorio-tracker.png)
 
 Na coluna de data está o dia e horário que o destinatário acessou o link; na coluna telefone, o número de telefone que a
 mensagem foi enviada; na coluna destino, o link que originalmente foi definido na mensagem e na última coluna, "Ação"
