@@ -25,7 +25,7 @@ export default {
             el.textContent = 'IMPORTANTE';
             break;
           case 'tip':
-            el.textContent = 'SABIA MAIS';
+            el.textContent = 'SAIBA MAIS';
             break;
         }
       })
