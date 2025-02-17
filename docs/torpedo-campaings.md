@@ -9,6 +9,7 @@
 
 # Torpedo Interativo
 
+<AsideArticle/>
+
 O disparo de torpedos interativos é uma estratégia poderosa para engajar o seu público de forma rápida e eficaz. Com essa funcionalidade, você pode enviar mensagens automatizadas com opções de resposta, permitindo interações diretas e instantâneas com os clientes.
 
-<AsideArticle/>

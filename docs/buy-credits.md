@@ -34,15 +34,33 @@
 
 ## Pagando a fatura
 
-  - Na página do financeiro, onde as faturas são listadas, clique em "Pagar".
-    ![Captura de tela da tela de faturas, com destaque para o botão "Pagar"](/img/tutorial/all-bills.png)
+- Na página do financeiro, onde as faturas são listadas, clique em "Pagar".
+  ![Captura de tela da tela de faturas, com destaque para o botão "Pagar"](/img/tutorial/all-bills.png)
 
-  - Você verá a fatura em detalhes, e um código Pix será gerado.
-    ![Captura de tela da tela de pagamento](/img/tutorial/pay-bill.png)    
+- Você verá a fatura em detalhes, e um código Pix será gerado.
+  ![Captura de tela da tela de pagamento](/img/tutorial/pay-bill.png)
 
-  - Use a câmera do celular para ler o QR Code ou copie e cole o código para fazer o pagamento no aplicativo do seu Banco.
+- Use a câmera do celular para ler o QR Code ou copie e cole o código para fazer o pagamento no aplicativo do seu Banco.
 
-    > [!IMPORTANT]
-    > Você deve pagar a fatura até o vencimento.
-  
-    Após o pagamento ser confirmado para nós, os créditos adquiridos são adicionados à sua conta. Você pode verificar a quantidade de créditos por serviço, [acessando o painel](https://painel.allcancesms.com.br/app) e depois [clicando em "Nova Campanha"](https://painel.allcancesms.com.br/app#!/campanha/new). 
+  > [!IMPORTANT]
+  > Você deve pagar a fatura até o vencimento.
+
+  Após o pagamento ser confirmado para nós, os créditos adquiridos são adicionados à sua conta. Você pode verificar a
+  quantidade de créditos por serviço, [acessando o painel](https://painel.allcancesms.com.br/app) e
+  depois [clicando em "Nova Campanha"](https://painel.allcancesms.com.br/app#!/campanha/new).
+
+## Localizando faturas
+
+Para encontrar uma fatura no Painel é muito simples.
+
+- Basta clicar em "Créditos", no menu lateral e depois em "Minhas compras".
+- Na página que vai abrir, use os campos para filtrar as faturas.
+- Você pode filtrar os resultados por data de emissão ou vencimento e também por status (pendente, pago, vencido ou
+  cancelado).
+
+  ![Resultado da pesquisa por faturas com vencimento para o dia 21/02/2025](/img/tutorial/bill-filter-results.png)
+
+## Próximos passos 
+
+[Crie uma campanha](/create-campaign)  
+[Conheça a função de rastrear links](/trackers-links)

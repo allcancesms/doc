@@ -45,8 +45,8 @@ export default defineConfig({
       {
         text: 'Créditos',
         items: [
-          {text: 'Como comprar créditos', link: '/buy-credits#1'},
-          {text: 'Onde vejo as minhas compras', link: '/buy-credits#2'},
+          {text: 'Como comprar créditos', link: '/buy-credits#criando-uma-fatura-e-adicionando-itens'},
+          {text: 'Onde vejo as minhas faturas', link: '/buy-credits#localizando-faturas'},
         ]
       },
       {
