@@ -64,16 +64,16 @@ opções:
 
 Os serviços disponíveis são:
 
-- SMS Transacional
-- SMS OTP
-- SMS Blend
-- SMS Massivo
-- SMS Bet Compartilhada
-- WhatsApp
-- Torpedo Interativo
+- [SMS Transacional](/sms-campaigns.html#sms-transacional)
+- [SMS OTP](/sms-campaigns.html#sms-otp)
+- [SMS Blend](sms-campaigns.html#sms-blend)
+- [SMS Massivo](sms-campaigns.html#sms-massivo)
+- [SMS Bet Compartilhada](sms-campaigns.html#sms-bet-compartilhada)
+- [WhatsApp](/whatsapp-campaigns)
+- [Torpedo Interativo](/torpedo-campaings)
 
 Cada serviço possui particularidades e aplicações específicas. Leia a descrição e verifique qual é o melhor para a sua
-necessidade. Após selecionar um serviço, clique em "Próximo".
+necessidade. Clicando sobre um dos serviços acima você pode ver um exemplo deles. Após selecionar um serviço, clique em "Próximo".
 
 ## Passo 2: Informar os destinatários
 
@@ -117,3 +117,22 @@ disparo estão corretos antes de confirmar.
 ![Captura de tela da etapa de "Confirmação" da funcionalidade criação de campanha do Painel.](/img/tutorial/confirm-campaign.png)
 
 Se tudo estiver correto, clique em "Enviar campanha", leia o aviso sobre a cobrança de créditos e clique em "Aceito". **Pronto! A campanha está criada e a mensagem será enviada aos destinatários!**
+
+Você pode acompanhar o envio através da funcionalidade de Lista de Campanhas (no menu lateral do Painel clique em "Campanha", depois em "Lista") ou através do link <https://painel.allcancesms.com.br/app#!/campanha/list>
+
+O primeiro status que deve aparecer é "Validando", onde o disparo é verificado e o envio preparado. Nesse status ainda é possível editar a mensagem.
+
+![Captura de tela da campanha com status "Validando"](/img/tutorial/status-validando.png)
+
+Depois, "Em andamento" - o disparo está sendo feito:
+
+![Captura de tela da campanha com status "Em andamento"](/img/tutorial/status-andamento.png)
+
+Por fim, "Finalizado":
+
+![Captura de tela da campanha com status "Finalizado"](/img/tutorial/status-finished.png)
+
+## Próximos passos
+
+[Localizando uma campanha](/search-campaigns)  
+[Veja o desempenho, respostas e o rastreio de links de uma campanha](/advanced-filters-campaings)  
