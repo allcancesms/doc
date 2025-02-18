@@ -57,8 +57,8 @@ Para encontrar uma fatura no Painel é muito simples.
 - Na página que vai abrir, use os campos para filtrar as faturas.
 - Você pode filtrar os resultados por data de emissão ou vencimento e também por status (pendente, pago, vencido ou
   cancelado).
-
   ![Resultado da pesquisa por faturas com vencimento para o dia 21/02/2025](/img/tutorial/bill-filter-results.png)
+- Pelo botão de "Ações" você pode abrir a fatura, assim como através do botão "Pagar", quando ele estiver disponível.
 
 ## Próximos passos 
 
