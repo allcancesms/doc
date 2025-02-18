@@ -54,7 +54,7 @@ export default defineConfig({
         items: [
           {text: 'Rastreadores', link: '/trackers'},
           {text: 'Resposta automática', link: '/auto-responses'},
-          {text: 'Contatos', link: '/contacts'},
+          {text: 'Grupos de contato', link: '/contacts'},
           {text: 'Lista Negra', link: '/black-list'},
         ]
       },

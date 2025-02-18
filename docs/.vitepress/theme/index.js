@@ -16,7 +16,7 @@ export default {
 
     const updateTexts = () => {
       // Traduz textos
-      Array.from(document.querySelectorAll("body *")).filter(el => ["note", "important", "tip"].includes(el.textContent.toLowerCase())).forEach(el => {
+      Array.from(document.querySelectorAll("body *")).filter(el => ["note", "important", "tip", "previous page", "next page"].includes(el.textContent.toLowerCase())).forEach(el => {
         switch (el.textContent.toLowerCase()) {
           case 'note':
             el.textContent = 'NOTA';
@@ -26,6 +26,12 @@ export default {
             break;
           case 'tip':
             el.textContent = 'SAIBA MAIS';
+            break;
+          case 'previous page':
+            el.textContent = 'Página anterior';
+            break;
+          case 'next page':
+            el.textContent = 'Próxima página';
             break;
         }
       })
