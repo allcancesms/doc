@@ -7,6 +7,6 @@
   <NoteComponent/>
 </div>
 
-# Caixa de entrada
+# Sua conta
 
 <AsideArticle/>

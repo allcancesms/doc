@@ -56,6 +56,7 @@ export default defineConfig({
           {text: 'Resposta automática', link: '/auto-responses'},
           {text: 'Grupos de contato', link: '/contacts'},
           {text: 'Lista Negra', link: '/black-list'},
+          {text: 'Caixa de entrada', link: '/inbox'},
         ]
       },
       {
@@ -63,6 +64,8 @@ export default defineConfig({
         items: [
           {text: 'Entendendo o dashboard', link: '/dashboard'},
           {text: 'Financeiro', link: '/finance'},
+          {text: 'Alterando a senha', link: '/account#alterando-a-senha'},
+          {text: 'Atualizando seus dados', link: '/account#atualizando-os-dados'},
         ]
       },
       {
@@ -70,7 +73,6 @@ export default defineConfig({
         items: [
           {text: 'Descomplicando o relatório analítico', link: '/reports#'},
           {text: 'Gerando um relatório por período', link: '/reports#'},
-          {text: 'Caixa de entrada', link: '/inbox'},
         ]
       }
     ],
