@@ -135,4 +135,4 @@ Depois clique no botão "Excluir marcados" e confirmar a exclusão.
 
 ## Onde vou usar isso?
 
-Na [criação de uma campanha](/create-campaing)!
+Na [criação de uma campanha](/create-campaign#passo-2-informar-os-destinatarios)!
