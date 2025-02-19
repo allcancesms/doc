@@ -73,10 +73,13 @@ Os serviços disponíveis são:
 - [Torpedo Interativo](/torpedo-campaings)
 
 > [!TIP]
-> Conheça a <a href="./trackers-links.html" target="_blank" style="color: var(--vp-custom-block-tip-text)">função de <b>rastreio de links</b></a> e acompanhe a taxa de cliques e comportamento dos seus destinatários, otimizando o seu négocio.
+> Conheça a <a href="./trackers-links.html" target="_blank" style="color: var(--vp-custom-block-tip-text)">função de <b>
+> rastreio de links</b></a> e acompanhe a taxa de cliques e comportamento dos seus destinatários, otimizando o seu
+> négocio.
 
 Cada serviço possui particularidades e aplicações específicas. Leia a descrição e verifique qual é o melhor para a sua
-necessidade. Clicando sobre um dos serviços acima você pode ver um exemplo deles. Após selecionar um serviço, clique em "Próximo".
+necessidade. Clicando sobre um dos serviços acima você pode ver um exemplo deles. Após selecionar um serviço, clique
+em "Próximo".
 
 ## Passo 2: Informar os destinatários
 
@@ -106,7 +109,35 @@ varia conforme o serviço escolhido). [Consulte a tarifação clicando aqui](/sm
 Conforme você digita, no lado direito do formulário, uma pré-visualização da mensagem será exibida.
 
 > [!TIP]
-> Conheça a <a href="./trackers-links.html" target="_blank" style="color: var(--vp-custom-block-tip-text)">função de <b>rastreio de links</b></a> e acompanhe a taxa de cliques e comportamento dos seus destinatários, otimizando o seu négocio.
+> Conheça a <a href="./trackers-links.html" target="_blank" style="color: var(--vp-custom-block-tip-text)">função de <b>
+> rastreio de links</b></a> e acompanhe a taxa de cliques e comportamento dos seus destinatários, otimizando o seu
+> négocio.
+
+### Usando parâmetros na mensagem
+
+Se a forma de adicionar os números de telefone dos destinatários foi através do upload de um arquivo do Excel, é
+possível que você use a funcionalidade de parâmetros, criando uma mensagem mais personalizada.
+
+Para que seja possível usar parâmetros para personalizar a mensagem é preciso que na tabela tenha outra coluna além de "telefone", que é usada para localizar os números de telefone.
+
+| nome	   | telefone     | 	cupom               |
+|---------|--------------|----------------------|
+| Gabriel | 	31999998888 | 	BEMVINDOGABRIEL     |
+| Otávio  | 	31999997777 | 	BEMVINDOOTAVIO      |
+
+Nesta tabela além da coluna "telefone", temos "nome" e "cupom", então estes serão os parâmetros que o sistema me permitirá usar para personalizar a mensagem. 
+
+Para usar os parâmetros, clique no botão "Parâmetros" em cima da caixa de texto onde preenchemos a mensagem. Após clicado, vai aparecer uma lista com as colunas (parâmetros) que foram encontrados. Para inserir um deles na mensagem é só clicar no nome da coluna. 
+
+![Captura de tela](/img/tutorial/parametros-acionado.png)
+
+No nosso exemplo, se clicar em no parâmetro nome, vai ser inserido na caixa de mensagem `${nome}`. Se clicar em cupom, `${cupom}`. Agora é só escrever a mensagem e manter esses textos `${[nomeDoParamentro]}` na mensagem para ela fique no formato correto. Para acompanhar as alterações fique de olho no preview que aparece do lado direito da tela, no celular.
+
+![Captura de tela](/img/tutorial/mensagem-personalizada.png)
+
+Observe que a nossa mensagem aparece no preview da forma como o destinatário vai receber, com o nome e cupom correspondente a ele.
+
+--- 
 
 Você pode optar por enviar a mensagem imediatamente ou programá-la para um horário específico. Caso escolha "Agendar",
 defina a data e o horário.
@@ -122,11 +153,14 @@ disparo estão corretos antes de confirmar.
 
 ![Captura de tela da etapa de "Confirmação" da funcionalidade criação de campanha do Painel.](/img/tutorial/confirm-campaign.png)
 
-Se tudo estiver correto, clique em "Enviar campanha", leia o aviso sobre a cobrança de créditos e clique em "Aceito". **Pronto! A campanha está criada e a mensagem será enviada aos destinatários!**
+Se tudo estiver correto, clique em "Enviar campanha", leia o aviso sobre a cobrança de créditos e clique em "Aceito". *
+*Pronto! A campanha está criada e a mensagem será enviada aos destinatários!**
 
-Você pode acompanhar o envio através da funcionalidade de Lista de Campanhas (no menu lateral do Painel clique em "Campanha", depois em "Lista") ou através do link <https://painel.allcancesms.com.br/app#!/campanha/list>
+Você pode acompanhar o envio através da funcionalidade de Lista de Campanhas (no menu lateral do Painel clique em "
+Campanha", depois em "Lista") ou através do link <https://painel.allcancesms.com.br/app#!/campanha/list>
 
-O primeiro status que deve aparecer é "Validando", onde o disparo é verificado e o envio preparado. Nesse status ainda é possível [editar a mensagem](/edit-campaign-message).
+O primeiro status que deve aparecer é "Validando", onde o disparo é verificado e o envio preparado. Nesse status ainda é
+possível [editar a mensagem](/edit-campaign-message).
 
 ![Captura de tela da campanha com status "Validando"](/img/tutorial/status-validando.png)
 
