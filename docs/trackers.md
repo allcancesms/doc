@@ -34,7 +34,7 @@ Novo".
 - No arquivo modelo existem 3 rastreadores e para cada um, 4 mensagens (A1 à A4, B1 à B4, C1 à C4)
 
   |Grupo| | | | | 
-      |-|-|-|-|-|
+  |-|-|-|-|-|
   |Rastreadores 1|A1|A2|A3|A4|
   |Rastreadores 2|B1|B2|B3|B4|
   |Rastreadores 3|C1|C2|C3|C4|
@@ -46,7 +46,7 @@ Novo".
 - Altere as mensagens e os nomes dos rastreadores se desejar
 
   | Grupo          |                            |                            |                            | 
-      |----------------|----------------------------|----------------------------|----------------------------|
+  |----------------|----------------------------|----------------------------|----------------------------|
   | Rastreador 1   | Mensagem 1 do rastreador 1 | Mensagem 2 do rastreador 1 | Mensagem 3 do rastreador 1 |
   | Rastreador 2   | Mensagem 1 do rastreador 2 | Mensagem 2 do rastreador 2 | Mensagem 3 do rastreador 2 |
   | Rastreador 3   | Mensagem 1 do rastreador 3 | Mensagem 2 do rastreador 3 | Mensagem 3 do rastreador 3 |
