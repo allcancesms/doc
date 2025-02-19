@@ -28,7 +28,7 @@ pelo menos um número para existir.
   ![Captura de tela do popup](/img/tutorial/popup-new-group.png)
 
 - Agora é hora de adicionar os números de telefone ao grupo. Eles podem ser adicionados de duas formas: através do
-  upload de um arquivo `.xls` ou `.txt`
+  upload de um arquivo `.xlsx`, `.xls` ou `.txt`
 
   ### Adicionando números via upload de arquivos
     - No popup, marque sim para "Upload de arquivo TXT ou CSV" e depois no botão "Procurar" ou "Escolher arquivo" (varia

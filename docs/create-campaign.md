@@ -105,7 +105,6 @@ varia conforme o serviço escolhido). [Consulte a tarifação clicando aqui](/sm
 
 Conforme você digita, no lado direito do formulário, uma pré-visualização da mensagem será exibida.
 
-
 > [!TIP]
 > Conheça a <a href="./trackers-links.html" target="_blank" style="color: var(--vp-custom-block-tip-text)">função de <b>rastreio de links</b></a> e acompanhe a taxa de cliques e comportamento dos seus destinatários, otimizando o seu négocio.
 
