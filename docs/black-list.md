@@ -70,7 +70,7 @@ botão com ícone de lixeira, em vermelho, no canto direito e depois confirmar.
 
 ![Captura de tela da página de lista de números da lista negra](/img/tutorial/btn-trash-item-black-list.png)
 
-![Popup de confirmação de exclusão de um número](public/img/tutorial/img.png)
+![Popup de confirmação de exclusão de um número](/img/tutorial/img.png)
 
 Para excluir vários números de uma só vez, selecione os números marcando a caixa no início da linha do registro.
 
