@@ -127,7 +127,7 @@ Se tudo estiver correto, clique em "Enviar campanha", leia o aviso sobre a cobra
 
 Você pode acompanhar o envio através da funcionalidade de Lista de Campanhas (no menu lateral do Painel clique em "Campanha", depois em "Lista") ou através do link <https://painel.allcancesms.com.br/app#!/campanha/list>
 
-O primeiro status que deve aparecer é "Validando", onde o disparo é verificado e o envio preparado. Nesse status ainda é possível editar a mensagem.
+O primeiro status que deve aparecer é "Validando", onde o disparo é verificado e o envio preparado. Nesse status ainda é possível [editar a mensagem](/edit-campaign-message).
 
 ![Captura de tela da campanha com status "Validando"](/img/tutorial/status-validando.png)
 
@@ -141,5 +141,6 @@ Por fim, "Finalizado":
 
 ## Próximos passos
 
+[Como editar a mensagem de uma campanha](/edit-campaign-message)  
 [Localizando uma campanha](/search-campaigns)  
 [Veja o desempenho, respostas e o rastreio de links de uma campanha](/advanced-filters-campaings)  
