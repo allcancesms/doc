@@ -64,8 +64,9 @@ export default defineConfig({
         items: [
           {text: 'Entendendo o dashboard', link: '/dashboard'},
           {text: 'Financeiro', link: '/finance'},
+          {text: 'Redefinindo a sua senha', link: '/account#redefinir-a-senha'},
           {text: 'Alterando a senha', link: '/account#alterando-a-senha'},
-          {text: 'Atualizando seus dados', link: '/account#atualizando-os-dados'},
+          {text: 'Atualizando os seus dados', link: '/account#atualizando-os-seus-dados'},
         ]
       },
       {
