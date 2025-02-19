@@ -69,6 +69,7 @@ export default defineConfig({
           {text: 'Redefinindo a sua senha', link: '/account#redefinir-a-senha'},
           {text: 'Alterando a senha', link: '/account#alterando-a-senha'},
           {text: 'Atualizando os seus dados', link: '/account#atualizando-os-seus-dados'},
+          {text: 'Notificações', link: '/notifications'}
         ]
       },
       {
