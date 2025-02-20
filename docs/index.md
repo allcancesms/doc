@@ -14,7 +14,7 @@ hero:
       link: /create-campaign
     - theme: alt
       text: Como funciona
-      link: https://allcancesms.com.br/#whats-unitario
+      link: https://allcancesms.com.br/#fidelidade
     - theme: alt
       text: Como comprar créditos
       link: /buy-credits

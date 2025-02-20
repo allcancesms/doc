@@ -103,6 +103,9 @@ Após informar os números, clique em "Próximo".
 
 ## Passo 3: Escrever a mensagem
 
+> [!IMPORTANT]
+> Se o serviço escolhido for envio através do WhatsApp, [clique aqui e saiba como escrever e formatar a mensagem](/whatsapp-campaigns#como-criar-uma-campanha). 
+
 Nesta etapa, você escreve o texto que será enviado aos destinatários. A mensagem pode ter até 2000 caracteres (o limite
 varia conforme o serviço escolhido). [Consulte a tarifação clicando aqui](/sms-campaigns#tarifacao).
 
