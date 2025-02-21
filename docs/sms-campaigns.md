@@ -27,7 +27,7 @@ Cada tipo de serviço possui características e aplicações específicas. Abaix
 
 O SMS transacional é uma mensagem de texto enviada para um usuário em resposta a uma ação específica ou evento dentro de um sistema. Diferente dos SMS promocionais, que têm foco em marketing e vendas, os SMS transacionais são usados para fornecer informações importantes ao usuário, como notificações de envio, pagamentos, lembretes de compromissos e vencimentos.
 
-Nosso serviço de SMS Transacional também pode ser usado para disparo em massa. Para criar uma campanha com o serviço de SMS Transacional, [clique aqui](/create-campaigns).
+Nosso serviço de SMS Transacional também pode ser usado para disparo em massa. Para criar uma campanha com o serviço de SMS Transacional, [clique aqui](/create-campaign).
 
 ![Captura de tela](/img/tutorial/cp-sms-1.png)
 
