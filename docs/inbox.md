@@ -11,20 +11,20 @@
 
 <AsideArticle/>
 
-Para acessar a Caixa de Entrada e ver as mensagens recebidas por resposta aos disparos, clique em "Relatórios" no meu lateral e depois em "Caixa de entrada"
+Para acessar a Caixa de Entrada e ver as mensagens recebidas como resposta aos disparos, clique em "Relatórios" no menu lateral e depois em "Caixa de entrada".
 
 ![Captura de tela](/img/tutorial/caixa-de-entrada-btn.png)
 
 ## Filtrando as mensagens
 
-Para filtrar as mensagens, na página da Caixa de Entrada, clique no botão "Filtrar dados" e um popup vai aparecer. Nele você pode definir os filtros para a busca. O primeiro é por onde a mensagem veio (SMS ou WhatsApp) e o segundo é o intervalo em que ela foi recebida. Este campo é muito importante se atentar ao preenchê-lo porquê é mais fácil localizar uma mensagem por data.  
+Na página da Caixa de Entrada, para filtrar as mensagens, clique no botão "Filtrar dados". Um popup aparecerá, permitindo que você defina os filtros para a busca. O primeiro filtro é por onde a mensagem veio (SMS ou WhatsApp) e o segundo é o intervalo em que ela foi recebida. Este campo é muito importante, pois facilita a localização das mensagens por data.
 
 ![Captura de tela](/img/tutorial/filtro-mensagem-cx.png)
 
-Filtros preenchidos, é só clicar no botão "Filtrar" e as mensagens do período, se houverem, serão listadas na página de Caixa de Entrada.
+Após preencher os filtros, basta clicar no botão "Filtrar" e as mensagens do período especificado serão listadas na página da Caixa de Entrada.
 
 ## Baixar resultados em Excel
 
-Voc6e pode exportar as mensagens da caixa de entrada através do botão "Baixar excel", no menu superior da página. Após clicar nesse botão levará alguns instantes para que o relatório fique pronto para download. Quando ele ficar, você recebe uma notificação dentro do Painel.
+Você pode exportar as mensagens da Caixa de Entrada clicando no botão "Baixar excel", localizado no menu superior da página. Após clicar nesse botão, levará alguns instantes para que o relatório fique pronto para download. Quando o arquivo estiver disponível, você receberá uma notificação dentro do Painel.
 
 ![Captura de tela](/img/tutorial/painel-notificacao-download.png)

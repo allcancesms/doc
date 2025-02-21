@@ -9,59 +9,52 @@
 
 # Automatizando respostas
 
-Configure respostas automáticas para agilizar atendimentos e melhorar a interação com os contatos. Defina termos e
-palavras-chave para ativar respostas personalizadas e crie fluxos automatizados para confirmar recebimentos, fornecer
-informações ou coletar dados sem intervenção manual.
+Configure respostas automáticas para agilizar atendimentos e melhorar a interação. Defina termos e palavras-chave para ativar respostas personalizadas e crie fluxos automatizados para confirmar recebimentos, fornecer informações ou coletar dados sem intervenção manual.
 
 <AsideArticle/>
 
 ## Conectando uma conta de WhatsApp
 
 - No menu lateral, clique em "Auto resposta".
-- A página de auto respostas, com duas abas "Conexão" e "Serviços" vai aparecer. Clique na em "Conexão" para a aba ser
-  exibida
-- Um QR Code para que o sistema consiga responder através do seu WhatsApp será criado
+- A página de auto respostas, com as abas "Conexão" e "Serviços", aparecerá. Clique em "Conexão".
+- Um QR Code será gerado para o sistema responder via WhatsApp.
 
   ![Captura de tela](/img/tutorial/auto-respostas-qr.png)
 
-- Abra o aplicativo do WhatsApp no seu telefone
-- Clique nos três pontinhos na aba de "Conversas" e depois em "Dispositivos conectados"
-- Clique no botão "Conectar dispositivo" e escaneie o QR Code da página
-- De volta ao Painel, se a conexão tiver dado certo esta mensagem aparecerá
+- Abra o WhatsApp no seu telefone, clique nos três pontinhos na aba "Conversas", depois em "Dispositivos conectados".
+- Clique em "Conectar dispositivo" e escaneie o QR Code.
+- Se a conexão for bem-sucedida, a mensagem abaixo será exibida no painel.
 
   ![Captura de tela](/img/tutorial/conectado.png)
 
   > [!NOTE]
-  > Você pode desconectar o acesso a qualquer momento clicando no botão "Desconectar" na página de auto respostas.
+  > Você pode desconectar a qualquer momento clicando em "Desconectar" na página de auto respostas.
 
-## Definindo os gatilhos e como serão respondidos
+## Definindo os gatilhos e respostas
 
-- Na aba "Serviços", clique no botão "Adicionar serviço"
-- No popup que vai abrir vamos definir o gatilho do serviço, a forma como ele virá e como será respondido, além, é
-  claro, da mensagem de resposta
+- Na aba "Serviços", clique em "Adicionar serviço".
+- No popup, defina o gatilho, a forma de resposta e a mensagem.
 
   ![Captura de tela](/img/tutorial/modal-add-servico.png)
 
-- Primeiro, escolha qual será o serviço de onde o gatilho virá
-- Depois, escolha a saída (a forma como ele será respondido), selecionando uma das opções
-- No campo "Gatilhos" digite os gatilhos que você quer que sejam monitorados
-- Agora é hora de escrever a mensagem de resposta. Se a forma de saída que você escolheu for Whatsapp, é possível
-  personalizar o nome do perfil, a foto e o recado. Para SMS esses recursos não estão disponível.
+- Escolha o serviço de origem do gatilho.
+- Selecione a saída (como será respondido).
+- No campo "Gatilhos", insira as palavras-chave a serem monitoradas.
+- Escreva a mensagem de resposta. Se a saída for WhatsApp, é possível personalizar o nome, foto e recado. SMS não permite essas opções.
 
   ![Captura de tela](/img/tutorial/mensagem-gatilho.png)
 
-- É possível formatar a mensagem, como **negrito**, <s>tachado</s> e emojis!
-    - Para aplicar o negrito é só clicar no botão "B" e escrever o texto entre asteríscos `*Texto vai aqui*`.
-    - Para tachado, você pode cliar no botão S e escrever o texto entre `~Texto vai aqui~`.
-    - Já para adicionar emojis é só clicar na carinha feliz 🙂 e um popup com os emojis aparecerá
+- Formate a mensagem com **negrito**, <s>tachado</s> e emojis!
+    - Para negrito, clique no botão "B" e escreva o texto entre asteriscos `*Texto aqui*`.
+    - Para tachado, clique no botão "S" e escreva o texto entre `~Texto aqui~`.
+    - Para adicionar emojis, clique na carinha 🙂 e escolha os emojis no popup.
 
       > [!NOTE]
-      > Os emojis não serão enviados nas mensagens SMS. Apenas nas mensagens de WhastApp
+      > Emojis não serão enviados por SMS, apenas por WhatsApp.
 
       ![Captura de tela](/img/tutorial/mensagem-emoji.png)
 
-- Tudo definido, clique em "Salvar". Se tiver dado tudo certo aparecerá uma mensagem de sucesso. O gatilho aparecerá na
-  lista de serviços.
+- Clique em "Salvar". Se tudo estiver correto, uma mensagem de sucesso aparecerá, e o gatilho será listado.
 
   ![Captura de tela](/img/tutorial/servico-adicionado.png)
 
@@ -69,13 +62,10 @@ informações ou coletar dados sem intervenção manual.
 
 ## Editando um gatilho
 
-Para editar um gatilho é só clicar no botão "Editar" de um dos gatilhos listados na lista de serviços. Aparecerá um
-popup e você pode alterar as configurações, o gatilho e a mensagem que será enviada como resposta.
+Para editar um gatilho, clique em "Editar" na lista de serviços. Alterar configurações, gatilho ou mensagem e clique em "Salvar". Uma mensagem de sucesso será exibida.
 
 ![Captura de tela](/img/tutorial/popup-edicao-gatilho.png)
 
-Depois é só clicar em "Salvar". Se tiver dado tudo certo, uma mensagem de sucesso aparecerá na tela.
-
 ## Excluindo um gatilho
 
-Para editar um gatilho é só clicar no botão "Excluir" de um dos gatilhos listados na lista de serviços. Depois é só confirmar a exclusão nos popups irá aparecer. 
+Para excluir um gatilho, clique em "Excluir" na lista de serviços e confirme a exclusão no popup.

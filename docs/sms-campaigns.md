@@ -13,7 +13,7 @@
 
 ## Nossos serviços de disparo por SMS
 
-Atualmente, oferecemos cinco tipos de serviços de disparos via SMS, são eles:
+Atualmente, oferecemos cinco tipos de serviços de disparo via SMS, que são:
 
 - SMS Transacional
 - SMS OTP
@@ -21,69 +21,68 @@ Atualmente, oferecemos cinco tipos de serviços de disparos via SMS, são eles:
 - SMS Massivo
 - SMS Bet Compartilhada
 
-Cada um dos tipos de serviços via SMS possuem características e aplicações específicas. Aqui, vamos abordar cada
-serviço, como usá-los e a aplicação ideal de cada um.
+Cada tipo de serviço possui características e aplicações específicas. Abaixo, abordamos cada um deles, como usá-los e qual a aplicação ideal para cada tipo.
 
 ## SMS Transacional
 
-O SMS transacional é uma mensagem de texto enviada para um usuário em resposta a uma ação específica ou evento dentro de um sistema. Diferente dos SMS promocionais, que têm foco em marketing e vendas, os SMS transacionais são usados para fornecer informações importantes e relevantes ao usuário, como notificações de envio e pagamentos e lembretes de compromissos e vencimentos.
+O SMS transacional é uma mensagem de texto enviada para um usuário em resposta a uma ação específica ou evento dentro de um sistema. Diferente dos SMS promocionais, que têm foco em marketing e vendas, os SMS transacionais são usados para fornecer informações importantes ao usuário, como notificações de envio, pagamentos, lembretes de compromissos e vencimentos.
 
-Nosso serviço de SMS Transacional também pode ser usado para disparo em massa. Para criar uma campanha com o serviço de SMS Transacional, [clique aqui](/create-campaigns). 
+Nosso serviço de SMS Transacional também pode ser usado para disparo em massa. Para criar uma campanha com o serviço de SMS Transacional, [clique aqui](/create-campaigns).
 
 ![Captura de tela](/img/tutorial/cp-sms-1.png)
 
 **As principais características desse serviço são:**
-- As mensagens tem limite de 2000 caracteres
-- Os envios podem ser agendados ou enviados na hora
+- Limite de 2000 caracteres por mensagem
+- Envio agendado ou imediato
 
 ## SMS OTP
 
-O serviço de SMS OTP é ideal para campanhas publicitárias, já que permite o [rastreamento de links](/trackers-links) para medir a conversão e cliques neles. 
+O serviço de SMS OTP é ideal para campanhas publicitárias, permitindo o [rastreamento de links](/trackers-links) para medir a conversão e cliques.
 
 ![Captura de tela](/img/tutorial/cp-sms-2.png)
 
 **As principais características desse serviço são:**
-- Monitoramento de clicks nos links enviados na mensagem e rastreados
-- As mensagens tem limite de 2000 caracteres
-- Os envios podem ser agendados ou enviados na hora
+- Monitoramento de cliques nos links enviados
+- Limite de 2000 caracteres por mensagem
+- Envio agendado ou imediato
 
 ## SMS Blend
 
-Eleve a eficiência dos seus envios com nossa solução Blend, garantindo rapidez e segurança. Com ele, potencialize suas campanhas com mensagens promocionais e de marketing.
+O SMS Blend oferece uma solução eficiente para campanhas promocionais e de marketing, garantindo rapidez e segurança na entrega das mensagens.
 
 ![Captura de tela](/img/tutorial/cp-sms-3.png)
 
 **As principais características desse serviço são:**
-- As mensagens tem limite de 460 caracteres
-- Os envios podem ser agendados ou enviados na hora
+- Limite de 460 caracteres por mensagem
+- Envio agendado ou imediato
 
 ## SMS Massivo
 
-Impulsione suas campanhas com o envio de mensagens promocionais e de marketing através do serviço de SMS Massivo. **Possui um pequeno delay no tempo de entrega, de 20 à 120 minutos**.
+O serviço de SMS Massivo impulsiona suas campanhas com o envio de mensagens promocionais e de marketing. **Observe que ele possui um pequeno delay na entrega, que pode variar de 20 a 120 minutos**.
 
 ![Captura de tela](/img/tutorial/cp-sms-4.png)
 
 **As principais características desse serviço são:**
-- As mensagens tem limite de 460 caracteres
-- Os envios podem ser agendados ou enviados na hora, porém tem um pequeno delay
+- Limite de 460 caracteres por mensagem
+- Envio agendado ou imediato, com pequeno delay
 
 ## SMS Bet Compartilhada
 
-Este é um serviço compartilhado (divide conexão com outros clientes) e acessível. É ideal para enviar mensagens de pouca urgência. Possui um delay de até 120 minutos.
+Este é um serviço compartilhado, ideal para mensagens de pouca urgência. Ele é acessível, mas apresenta um delay de até 120 minutos.
 
 ![Captura de tela](/img/tutorial/cp-sms-5.png)
 
 **As principais características desse serviço são:**
-- As mensagens tem limite de 460 caracteres
-- Os envios podem ser agendados ou enviados na hora, porém tem um pequeno delay
+- Limite de 460 caracteres por mensagem
+- Envio agendado ou imediato, com pequeno delay
 
 ## Tarifação
 
-Atualmente, tarifamos 1 SMS a até 160 caracteres, a partir de então tarifamos a cada 145 caracteres. Isso significa que, se você criar duas campanhas, uma em que a mensagem tenha 100 caracteres e outra em que a mensagem tenha 450 caracteres, a primeira será tarifada em 1 SMS e a segunda em 3 SMS (1 SMS até 160 caracteres e 2 dos 290 caracteres restantes). 
+A tarifação para SMS ocorre da seguinte maneira: cobramos 1 SMS para mensagens de até 160 caracteres. A partir de 161 caracteres, cobramos 1 SMS adicional para cada 145 caracteres. Isso significa que, se você enviar uma mensagem de 100 caracteres, será cobrado 1 SMS, e para uma mensagem de 450 caracteres, serão cobrados 3 SMS (1 SMS para os primeiros 160 caracteres e 2 SMS para os 290 caracteres restantes).
 
-Antes da criação de uma campanha, você é informado sobre a tarifação. 
+Antes de criar uma campanha, você será informado sobre a tarifação aplicada.
 
-## Próximos passos 
+## Próximos passos
 
 [Conheça o nosso serviço de disparos pelo WhatsApp](/whatsapp-campaigns)  
-[Conheça também o nosso serviço de torpedo interativo](/torpedo-campaings)
+[Saiba mais sobre o nosso serviço de torpedo interativo](/torpedo-campaings)

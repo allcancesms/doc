@@ -11,104 +11,84 @@
 
 <AsideArticle/>
 
-## Acessando a página "Meu perfil" (configurações da conta)
+## Acessando a página "Meu perfil" (Configurações da conta)
 
-- Para acessar as configurações da conta, clique no seu nome ou na sua foto de perfil, no menu superior do Painel:
-  ![Tela de dashboard indicando onde clicar](/img/tutorial/btn-account.png)
+- Para acessar as configurações da conta, clique no seu nome ou na sua foto de perfil no menu superior do Painel:
+  ![Tela do dashboard indicando onde clicar](/img/tutorial/btn-account.png)
 
-- Depois, no popup que vai abrir, clique em "Meu perfil"
+- No popup que será exibido, clique em "Meu perfil":
   ![Popup para deslogar ou alterar informações do perfil](/img/tutorial/popup-account.png)
 
-## Atualizando os seus dados
+## Atualizando seus dados
 
-- Na página "Meu perfil" (dúvidas sobre como chegar até esta
-  página? [Clique aqui](#acessando-a-pagina-meu-perfil-configurações-da-conta)), você pode atualizar os seus dados: seu
-  nome, e-mail, celular e o e-mail de login. **Se nesse momento você não quiser atualizar a senha, deixe o campo vazio
-  **.
-  ![Página de "meus dados"](/img/tutorial/account-page.png)
+- Na página "Meu perfil" ([como acessar?](#acessando-a-pagina-meu-perfil-configurações-da-conta)), você pode atualizar
+  seus dados: nome, e-mail, celular e e-mail de login.
+  **Caso não queira atualizar a senha, deixe o campo correspondente vazio.**
+  ![Página de "Meus dados"](/img/tutorial/account-page.png)
 
   > [!CAUTION]
-  > Se nesse momento você não quiser atualizar a senha, deixe o campo vazio.
+  > Se não quiser atualizar a senha, mantenha o campo em branco.
 
-- Para atualizar, basta alterar os dados nos campos e depois clicar em "Salvar". Depois, se tudo tiver dado certo, vai
-  aparecer a mensagem de sucesso na tela "Dados atualizados".
+- Para salvar as alterações, edite os campos desejados e clique em "Salvar". Se tudo estiver correto, uma mensagem de
+  sucesso será exibida na tela "Dados atualizados".
 
 ## Alterando a senha
 
-Na página "Meu perfil" (dúvidas sobre como chegar até esta
-página? [Clique aqui](#acessando-a-pagina-meu-perfil-configurações-da-conta)), digite a nova senha para a conta no
-campo "Senha".
-![Página de "meus dados"](/img/tutorial/account-page.png)
+- Na página "Meu perfil" ([como acessar?](#acessando-a-pagina-meu-perfil-configurações-da-conta)), digite a nova senha
+  no campo correspondente.
+  ![Página de "Meus dados"](/img/tutorial/account-page.png)
 
-> [!IMPORTANT]
-> Guarde a senha num local seguro e acessível, de preferência use um gerenciador de senhas.
+  > [!IMPORTANT]
+  > Guarde sua senha em um local seguro. Recomendamos o uso de um gerenciador de senhas.
 
-Nova senha digitada, é só clicar no botão "Salvar" para que ela seja atualizada. Se tudo tiver dado certo, vai aparecer
-a mensagem de sucesso na tela "Dados atualizados".
+- Depois de inserir a nova senha, clique em "Salvar". Se tudo ocorrer corretamente, uma mensagem de sucesso será
+  exibida.
 
-## Adicionando uma foto de perfil
+## Adicionando ou alterando a foto de perfil
 
-Na página "Meu perfil" (dúvidas sobre como chegar até esta
-página? [Clique aqui](#acessando-a-pagina-meu-perfil-configurações-da-conta)), clique no botão que tem o ícone do lápis
-e escolha a foto que você quer colocar como de perfil.
-![Página de "meu perfil" com o botão de trocar imagem em destaque](/img/tutorial/update-profile-pic.png)
+- Na página "Meu perfil" ([como acessar?](#acessando-a-pagina-meu-perfil-configurações-da-conta)), clique no botão com o
+  ícone de lápis e selecione a imagem desejada.
+  ![Botão de alterar imagem de perfil](/img/tutorial/update-profile-pic.png)
 
-Se você quiser trocar a foto escolhida, é só clicar no botão com ícone X e repetir o processo de adicionar a foto.
+- Para trocar a imagem escolhida, clique no ícone "X" e repita o processo.
+  ![Cancelar alteração da foto de perfil](/img/tutorial/cancel-add-photo.png)
 
-![Captura de tela](/img/tutorial/cancel-add-photo.png)
-
-Foto escolhida, é só clicar no botão "Salvar". Se tudo tiver dado certo, vai aparecer a mensagem de sucesso na tela "Dados atualizados".
+- Clique em "Salvar". Se tudo estiver correto, uma mensagem de sucesso será exibida.
 
 ## Removendo a foto de perfil
 
-Na página "Meu perfil" (dúvidas sobre como chegar até esta
-página? [Clique aqui](#acessando-a-pagina-meu-perfil-configurações-da-conta)), clique no botão com ícone X para remover a foto de perfil. 
+- Na página "Meu perfil" ([como acessar?](#acessando-a-pagina-meu-perfil-configurações-da-conta)), clique no botão com o
+  ícone "X" para remover a foto de perfil.
+  ![Removendo a foto de perfil](/img/tutorial/remove-photo.png)
 
-![Captura de tela](/img/tutorial/remove-photo.png)
+- Depois, clique em "Salvar" para confirmar a remoção.
 
-Depois, clique em "Salvar" para confirmar a remoção da foto.
+## Redefinindo a senha
 
-## Alterando a foto de perfil
+- Na página de login <https://painel.allcancesms.com.br/app/login>, clique em "Esqueceu sua senha?".
+  ![Tela de login](/img/tutorial/forgot-password.png)
 
-Na página "Meu perfil" (dúvidas sobre como chegar até esta
-página? [Clique aqui](#acessando-a-pagina-meu-perfil-configurações-da-conta)), clique no botão que tem o ícone do lápis
-e escolha a foto que você quer colocar como de perfil.
-![Página de "meu perfil" com o botão de trocar imagem em destaque](/img/tutorial/edit-photo.png)
+- No formulário exibido, informe o número de telefone cadastrado e clique em "Enviar".
+  ![Tela de recuperação de senha](/img/tutorial/forgot-password-2.png)
 
-Se você quiser trocar a foto escolhida, é só clicar no botão com ícone X e repetir o processo de adicionar a foto.
+- Você receberá um código de verificação via SMS. **O código contém 5 dígitos**.
+  ![Mensagem SMS](/img/tutorial/message-rec-password.png)
 
-![Captura de tela com destaque para o botão de cancelar a alteração de foto de perfil](/img/tutorial/cancel-add-photo.png)
+- Insira o código no formulário e clique em "Validar".
+  ![Formulário de código recebido](/img/tutorial/form-pin.png)
 
-Foto escolhida, é só clicar no botão "Salvar". Se tudo tiver dado certo, vai aparecer a mensagem de sucesso na tela "Dados atualizados".
+  > [!NOTE]
+  > Se tiver problemas para redefinir sua senha, entre em contato com o nosso
+  suporte: [clique aqui](https://wa.me/553132311301).
 
-## Redefinir a senha
+- Caso o código esteja correto, crie uma nova senha e repita-a para confirmação.
+  ![Criando uma nova senha](/img/tutorial/new-password.png)
 
-Na página de login <https://painel.allcancesms.com.br/app/login> clique em "Esqueceu sua senha?".
+- Clique em "Salvar". Se tudo ocorrer corretamente, a mensagem "Sua senha foi alterada com sucesso" será exibida. Agora,
+  basta fazer login com a nova senha!
+  ![Tela de sucesso na redefinição](/img/tutorial/forgot-password-success.png)
 
-![Tela de login](/img/tutorial/forgot-password.png)
-
-No formulário que vai aparecer, informe o número de telefone que está cadastrado na sua conta e clique em "Enviar".
-
-![Tela de recuperação de senha](/img/tutorial/forgot-password-2.png)
-
-Você irá receber um código de recuperação por SMS no número que você informou e este código será usado para redefinir a senha. **O código tem 5 números**.
-
-![Mensagem SMS](/img/tutorial/message-rec-password.png)
-
-Digite o código no formulário e clique em "Validar"
-
-![Formulário para informar o código recebido](/img/tutorial/form-pin.png)
-
-> [!NOTE]
-> Se você tiver problemas para redefinir a senha, não hesite em [contactar o nosso suporte.](https://wa.me/553132311301)
-
-Se o código estiver correto, é só criar uma nova senha e repeti-la. Guarde ela num local seguro e acessível, de preferência use um gerenciador de senhas.
-
-![Captura de tela da página, onde uma nova senha é criada](/img/tutorial/new-password.png)
-
-Senha criada, clique em "Salvar". Se tudo tiver dado certo, a mensagem "Sua senha foi alterada com sucesso" aparecerá na tela. Agora é só fazer o login com o seu usuário e a nova senha!
-
-![Tela com a mensagem de sucesso na redefinição da senha](/img/tutorial/forgot-password-success.png)
-
-> [!NOTE]
-> Se você tiver problemas para redefinir a senha, não hesite em [contactar o nosso suporte.](https://wa.me/553132311301)
+  > [!NOTE]
+  > Se tiver problemas para redefinir sua senha, entre em contato com o nosso
+  suporte: [clique aqui](https://wa.me/553132311301).
+  

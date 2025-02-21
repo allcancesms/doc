@@ -19,7 +19,7 @@ serviço.
 ## O que é necessário para criar uma campanha?
 
 Para criar uma campanha, é preciso ter uma conta e possuir créditos para o disparo das mensagens. Caso você ainda não
-possua uma conta, [veja nosso tutorial de como criar uma conta gratuitamente](/get-started).
+possa uma conta, [veja nosso tutorial de como criar uma conta gratuitamente](/get-started).
 
 Caso você não possua créditos
 disponíveis, [clique aqui e adquira créditos](https://painel.allcancesms.com.br/app#!/administrador/faturas/new). Para
@@ -54,7 +54,7 @@ Vamos criar uma campanha? Siga o passo a passo!
 
 - **Definindo o serviço e nomeando a campanha**
 
-  Primeiro, dê um nome para a campanha que você está a criar. Esse nome será usado para identificá-la posteriormente no
+  Primeiro, dê um nome para a campanha que você está criando. Esse nome será usado para identificá-la posteriormente no
   painel e pode ter até 40 caracteres.
 
 Com a campanha nomeada, é hora de escolher o tipo de serviço para o disparo das mensagens. Atualmente, temos oito
@@ -75,7 +75,7 @@ Os serviços disponíveis são:
 > [!TIP]
 > Conheça a <a href="./trackers-links.html" target="_blank" style="color: var(--vp-custom-block-tip-text)">função de <b>
 > rastreio de links</b></a> e acompanhe a taxa de cliques e comportamento dos seus destinatários, otimizando o seu
-> négocio.
+> negócio.
 
 Cada serviço possui particularidades e aplicações específicas. Leia a descrição e verifique qual é o melhor para a sua
 necessidade. Clicando sobre um dos serviços acima você pode ver um exemplo deles. Após selecionar um serviço, clique
@@ -104,7 +104,7 @@ Após informar os números, clique em "Próximo".
 ## Passo 3: Escrever a mensagem
 
 > [!IMPORTANT]
-> Se o serviço escolhido for **envio através do WhatsApp**, [clique aqui e saiba como escrever e formatar a mensagem](/whatsapp-campaigns#como-criar-uma-campanha). Já se o serviço for **Torpedo Interativo**, [clique aqui e veja como criar uma mensagem](/torpedo-campaings#como-criar-uma-mensagem-de-torpedo). 
+> Se o serviço escolhido for **envio através do WhatsApp**, [clique aqui e saiba como escrever e formatar a mensagem](/whatsapp-campaigns#como-criar-uma-campanha). Já se o serviço for **Torpedo Interativo**, [clique aqui e veja como criar uma mensagem](/torpedo-campaings#como-criar-uma-mensagem-de-torpedo).
 
 Nesta etapa, você escreve o texto que será enviado aos destinatários. A mensagem pode ter até 2000 caracteres (o limite
 varia conforme o serviço escolhido). [Consulte a tarifação clicando aqui](/sms-campaigns#tarifacao).
@@ -114,27 +114,27 @@ Conforme você digita, no lado direito do formulário, uma pré-visualização d
 > [!TIP]
 > Conheça a <a href="./trackers-links.html" target="_blank" style="color: var(--vp-custom-block-tip-text)">função de <b>
 > rastreio de links</b></a> e acompanhe a taxa de cliques e comportamento dos seus destinatários, otimizando o seu
-> négocio.
+> negócio.
 
 ### Usando parâmetros na mensagem
 
 Se a forma de adicionar os números de telefone dos destinatários foi através do upload de um arquivo do Excel, é
 possível que você use a funcionalidade de parâmetros, criando uma mensagem mais personalizada.
 
-Para que seja possível usar parâmetros para personalizar a mensagem é preciso que na tabela tenha outra coluna além de "telefone", que é usada para localizar os números de telefone.
+Para que seja possível usar parâmetros para personalizar a mensagem, é preciso que na tabela tenha outra coluna além de "telefone", que é usada para localizar os números de telefone.
 
 | nome	   | telefone     | 	cupom               |
 |---------|--------------|----------------------|
 | Gabriel | 	31999998888 | 	BEMVINDOGABRIEL     |
 | Otávio  | 	31999997777 | 	BEMVINDOOTAVIO      |
 
-Nesta tabela além da coluna "telefone", temos "nome" e "cupom", então estes serão os parâmetros que o sistema me permitirá usar para personalizar a mensagem. 
+Nesta tabela, além da coluna "telefone", temos "nome" e "cupom", então estes serão os parâmetros que o sistema me permitirá usar para personalizar a mensagem.
 
-Para usar os parâmetros, clique no botão "Parâmetros" em cima da caixa de texto onde preenchemos a mensagem. Após clicado, vai aparecer uma lista com as colunas (parâmetros) que foram encontrados. Para inserir um deles na mensagem é só clicar no nome da coluna. 
+Para usar os parâmetros, clique no botão "Parâmetros" em cima da caixa de texto onde preenchemos a mensagem. Após clicar, vai aparecer uma lista com as colunas (parâmetros) que foram encontrados. Para inserir um deles na mensagem, é só clicar no nome da coluna.
 
 ![Captura de tela](/img/tutorial/parametros-acionado.png)
 
-No nosso exemplo, se clicar em no parâmetro nome, vai ser inserido na caixa de mensagem `${nome}`. Se clicar em cupom, `${cupom}`. Agora é só escrever a mensagem e manter esses textos `${[nomeDoParamentro]}` na mensagem para ela fique no formato correto. Para acompanhar as alterações fique de olho no preview que aparece do lado direito da tela, no celular.
+No nosso exemplo, se clicar no parâmetro "nome", vai ser inserido na caixa de mensagem `${nome}`. Se clicar em "cupom", `${cupom}`. Agora é só escrever a mensagem e manter esses textos `${[nomeDoParamentro]}` na mensagem para ela ficar no formato correto. Para acompanhar as alterações, fique de olho no preview que aparece do lado direito da tela, no celular.
 
 ![Captura de tela](/img/tutorial/mensagem-personalizada.png)
 
@@ -179,4 +179,4 @@ Por fim, "Finalizado":
 
 [Como editar a mensagem de uma campanha](/edit-campaign-message)  
 [Localizando uma campanha](/search-campaigns)  
-[Veja o desempenho, respostas e o rastreio de links de uma campanha](/advanced-filters-campaings)  
+[Veja o desempenho, respostas e o rastreio de links de uma campanha](/advanced-filters-campaings)

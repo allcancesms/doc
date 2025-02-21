@@ -11,9 +11,9 @@
 
 <AsideArticle/>
 
-Complete o cadastro e tenha acesso a todos os nossos serviços na conta gratuita! Para isso siga os passos à seguir:
+Complete o cadastro e tenha acesso a todos os nossos serviços na conta gratuita! Para isso, siga os passos abaixo:
 
-- Você pode acessá-lo através do link <https://painel.allcancesms.com.br/app#!/complete_trial_access> ou pela interface,
+- Acesse o cadastro pelo link <https://painel.allcancesms.com.br/app#!/complete_trial_access> ou pela interface,
   clicando no menu lateral em "Financeiro", depois em "Gerar fatura".
 
   ![Captura de tela do dashboard, com menu lateral aberto](/img/tutorial/dsk-dashboard-first.png)
@@ -22,8 +22,6 @@ Complete o cadastro e tenha acesso a todos os nossos serviços na conta gratuita
 
   ![Formulário de pessoa física](/img/tutorial/form-trial-acc-pf.png)
 
-- Preencha com os seus dados. Todos os campos que estiver com o asterísco vermelho, o preenchimento é obrigatório. Após
-  preenchida as informações, verifique se está tudo certo e clique em "Salvar".
+- Preencha com os seus dados. Todos os campos com o asterisco vermelho são obrigatórios. Após preencher as informações, verifique se está tudo correto e clique em "Salvar".
 
-- Uma mensagem confirmando o sucesso na alteração dos dados vai aparecer. Agora você já pode desfrutar de tudo que a
-  Allcance oferece. [Vamos criar a sua primeira campanha?](/create-campaign)
+- Uma mensagem confirmando o sucesso na alteração dos dados aparecerá. Agora você já pode desfrutar de tudo o que a Allcance oferece. [Vamos criar a sua primeira campanha?](/create-campaign)

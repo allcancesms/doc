@@ -14,12 +14,12 @@
 
 <AsideArticle/>
 
-## Passo 1: Acesse a página de campanha e localize a campanha
+## Passo 1: Acesse a página da campanha e localize a campanha
 
-No menu lateral, clique em "Campanhas" e depois em "Lista". Localize a campanha que você deseja alterar a mensagem. 
+No menu lateral, clique em "Campanhas" e depois em "Lista". Localize a campanha que você deseja alterar a mensagem.
 
 ## Passo 2: Clique no botão "Editar"
 
-Clique no botão "Editar" e um popup irá abrir. O status da campanha será alterado para "Editando". No popup você poderá editar a mensagem e ter um preview de como ela será recebida. **É importante que, após fazer as edições, cliquem em "Alterar", no final do popup**, para que a campanha continue a ser validada. 
+Clique no botão "Editar" e um pop-up será aberto. O status da campanha será alterado para "Editando". No pop-up, você poderá editar a mensagem e visualizar um preview de como ela será recebida. **É importante que, após fazer as edições, clique em "Alterar", no final do pop-up**, para que a campanha continue sendo validada.
 
-Se estiver dado tudo certo, uma mensagem de sucesso aparecerá na tela e a campanha voltará ao status de validando. 
+Se tudo estiver correto, uma mensagem de sucesso aparecerá na tela e a campanha voltará ao status "Validando".

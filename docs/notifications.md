@@ -11,6 +11,6 @@
 
 <AsideArticle/>
 
-No Painel, você pode receber alertas, por exemplo quando um relatório fica disponível para download. Para visuar esses avisos é só clicar no botão com ícone de um sino, no menu superior, em qualquer página do Painel. Lá aparecerá os alertas que você recebeu, se houver.
+No Painel, você pode receber alertas, como quando um relatório fica disponível para download. Para visualizar esses avisos, basta clicar no botão com o ícone de um sino, localizado no menu superior, em qualquer página do Painel. Lá aparecerão os alertas recebidos, se houverem.
 
 ![Captura de tela](/img/tutorial/notificacoes.png)

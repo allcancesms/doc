@@ -17,8 +17,8 @@ Acesse o nosso site [allcancesms.com.br](https://allcancesms.com.br) e clique em
 ![Captura de tela do site da Allcance](/img/tutorial/form-create-acc.png)
 
 A tela vai descer até o formulário. Preencha-o com o seu celular e o seu melhor e-mail. Depois clique em **"Solicitar Teste"**.
-Se os dados estiverem corretos, você será direcionado esta página com instruções de como acessar o Painel.
-![Captura de tela da páginas de informações sobre login, após a criação da conta](/img/tutorial/form-confirm-acc.png)
+Se os dados estiverem corretos, você será direcionado a esta página com instruções de como acessar o Painel.
+![Captura de tela da página de informações sobre login, após a criação da conta](/img/tutorial/form-confirm-acc.png)
 
 ## Acessando o Painel pela primeira vez
 

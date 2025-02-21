@@ -11,13 +11,13 @@
 
 <AsideArticle/>
 
-O nosso dashboard oferece uma visão completa e detalhada das suas campanhas, permitindo monitoramento em tempo real, com atualizações a cada minuto e tomada de decisões estratégicas com base nas informações.
+Nosso dashboard oferece uma visão completa e detalhada das suas campanhas, permitindo monitoramento em tempo real, com atualizações a cada minuto, e tomada de decisões estratégicas com base nas informações.
 
-## O que você pode acompanhar no nosso dashboard? 
+## O que você pode acompanhar no nosso dashboard?
 
-- Status das campanhas: a quantidade de campanhas que estão a ser processadas e a quantidade das que foram enviadas.
-- Itens na caixa de entrada - as mensagens que foram recebidas.
-- As campanhas dos últimos 10 dias, separados por serviço.
+- Status das campanhas: a quantidade de campanhas que estão sendo processadas e a quantidade das que foram enviadas.
+- Itens na caixa de entrada: as mensagens que foram recebidas.
+- Campanhas dos últimos 10 dias, separadas por serviço.
 - A mensagem e as métricas das últimas 5 campanhas.
 
 ## Status das campanhas e caixa de entrada
@@ -37,6 +37,6 @@ Você consegue visualizar a mensagem e o relatório da campanha.
 
 ## Atualização automática
 
-O dashboard também tem a função de atualizar automaticamente a cada X minutos. Para definir é só clicar em "Sem atualização" e depois em uma das opções de intervalo de tempo. 
+O dashboard também possui a função de atualização automática a cada X minutos. Para definir, basta clicar em "Sem atualização" e escolher uma das opções de intervalo de tempo.
 
 ![Captura de tela do botão e modal de atualização](/img/tutorial/time-update.png)
