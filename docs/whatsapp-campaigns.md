@@ -45,6 +45,8 @@ terceira etapa, quando se escreve a mensagem siga os passos abaixo para personal
   define o nome que aparecerá no WhatsApp e em "Recado", o texto de recado do contato.
 - Para escolher uma foto de perfil para o contato é só clicar no ícone de imagem e selecionar o arquivo.
 
+[Continue a criação da campanha, no passo 4 - Confirmação](/create-campaign#passo-4-confirmacao).
+
 ## Próximos passos
 
 [Conheça o nosso serviço de disparos SMS](/sms-campaigns)  
