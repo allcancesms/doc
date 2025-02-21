@@ -75,8 +75,8 @@ export default defineConfig({
       {
         text: 'Relatórios', link: '#',
         items: [
-          {text: 'Descomplicando o relatório analítico', link: '/reports#'},
-          {text: 'Gerando um relatório por período', link: '/reports#'},
+          {text: 'Descomplicando o relatório analítico', link: '/reports#relatorio-analitico'},
+          {text: 'Gerando um relatório por período', link: '/reports#relatorio-sintetico'},
         ]
       }
     ],
