@@ -13,11 +13,14 @@ hero:
       text: Criando uma campanha
       link: /create-campaign
     - theme: alt
-      text: Como funciona
+      text: Como funcionam os nossos serviços
       link: https://allcancesms.com.br/#fidelidade
     - theme: alt
       text: Como comprar créditos
       link: /buy-credits
+    - theme: alt
+      text: Como rastrear links
+      link: /trackers-links
 
 features:
   - link: /auto-responses

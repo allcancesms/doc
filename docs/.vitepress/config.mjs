@@ -17,7 +17,7 @@ export default defineConfig({
 
     nav: [
       {text: 'Suporte', link: 'https://wa.me/553132311301'},
-      {text: 'Começar', link: '/get-started'},
+      {text: 'Comece por aqui', link: '/get-started'},
       {text: 'Campanhas', link: '/create-campaign'},
     ],
 
